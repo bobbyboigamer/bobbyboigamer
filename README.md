@@ -1,0 +1,3 @@
+- I like programming
+- I'm learning python, html, c++
+- I like rice
