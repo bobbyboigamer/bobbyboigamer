@@ -1,3 +1,3 @@
 - I like programming
-- I'm learning python, html, c++
+- I'm learning javascript, html, c++ to become a frontend developer
 - I like rice
